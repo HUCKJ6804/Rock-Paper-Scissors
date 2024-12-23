@@ -1,0 +1,15 @@
+button {
+    text-align: center;
+   
+}
+.scoreDisplay {
+    font-size: 2em;
+}
+
+#playerScoreDisplay {
+    color: rgb(69, 247, 69);
+}
+
+#computerScoreDisplay {
+    color: red;
+}
